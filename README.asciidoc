@@ -1,0 +1,25 @@
+# Syllabus - CS 220
+
+Spring 2023
+
+include::Instructor.md[]
+
+include::Course.md[]
+
+include::Materials.md[]
+
+include::Grading.md[]
+
+include::Attendance.md[]
+
+include::Accessibility.md[]
+
+include::Privacy.md[]
+
+include::Misconduct.md[]
+
+include::Changes.md[]
+
+include::Extenuating-Circumstances.md[]
+
+include::Schedule.md[]
