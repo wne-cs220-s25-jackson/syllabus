@@ -1,0 +1,1 @@
+asciidoctor-pdf README.asciidoc -o Syllabus.pdf
