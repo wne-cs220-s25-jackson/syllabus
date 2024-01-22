@@ -10,6 +10,8 @@ include::Materials.md[]
 
 include::Grading.md[]
 
+include::Appeals.md[]
+
 include::Attendance.md[]
 
 include::Accessibility.md[]
