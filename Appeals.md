@@ -10,4 +10,4 @@ instructor. In your email, include the following information:
 * A brief description of the problem and why you think the score is incorrect.
 
 Appeals for a particular score must be made within 1 week of that score
-being posted or by 9a the day grades are due, whichever is earlier.
+being posted to Kodiak or by 9a the day grades are due, whichever is earlier.
