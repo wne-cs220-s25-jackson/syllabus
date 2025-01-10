@@ -5,10 +5,8 @@
 Most of the materials for this course are free.
 
 - Discord
-- Git for Windows
-- GitLab account
-- GitHub account
-- GitPod account
+- Git
+- GitHub and Codespaces
 
 ### Non-Free
 

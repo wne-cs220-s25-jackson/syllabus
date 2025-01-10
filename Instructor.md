@@ -1,20 +1,15 @@
-## Instructor Information
+## Instructor Contact Information
 
-- Stoney Jackson, PhD
+- Name: Stoney Jackson, Ph.D., he/him
 - Email: [Stoney.Jackson@wne.edu](mailto:Stoney.Jackson@wne.edu)
-- Appointments: [https://stoneyjackson.youcanbook.me/](https://stoneyjackson.youcanbook.me/)
 - Office: H207b and class Discord server
 
 ### Office Hours
 
-Monday through Thursday, 11:00a-12:30p ET
+Please, please, please make use of my office hours. I love what I teach,
+and I am more than happy to help you learn it.
 
-During office hours, I am available in our class Discord server and
-in my office. You do not need an appointment to meet with me during
-these hours. In-person takes priority.
+Use the following link to schedule a time to meet with me in-person or
+over Zoom. When you do, **be sure you set your timezone using this icon:** ![timezone icon](timezone.png).
 
-### Outside Office Hours
-
-You may also contact me outside office hours on Discord, or by email.
-Typically I check email and Discord in the morning when I first get to
-the office. Please allow up to 1 business day for a response.
+- <https://outlook.office.com/bookwithme/user/2b8e5ed3fd014d8d9a50575b3ed48150@wne.edu?anonymous&ep=plink>
